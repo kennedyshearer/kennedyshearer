@@ -16,6 +16,7 @@
 <h2> 📝 Certifications:</h2>
 
 - [Google Cybersecurity Professional](https://www.credly.com/badges/4e4d90cc-f2d0-4b5d-8ab9-cefe4d32044b/public_url)
+- [CompTIA Network+]()
 
 <h2> 🤳 Connect with me:</h2>
 
