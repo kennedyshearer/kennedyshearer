@@ -15,6 +15,7 @@
 
 <h2> 📝 Certifications:</h2>
 
+- [CompTIA CySA+](https://www.credly.com/badges/766bfb5f-88e8-4e52-894f-8ac25e89d812/public_url)
 - [CompTIA Security+](https://www.credly.com/badges/df3c261f-d766-4504-b622-15150b495695/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/3ee76336-39a9-40a7-82b1-705a457a5a2d/public_url)
 - [Google Cybersecurity Professional](https://www.credly.com/badges/4e4d90cc-f2d0-4b5d-8ab9-cefe4d32044b/public_url)
