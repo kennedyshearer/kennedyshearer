@@ -1,42 +1,61 @@
-<h1>Hi, I'm Kennedy! <br/><a href="https://github.com/kennedyshearer">Programmer</a> & <a href="https://www.linkedin.com/in/kennedyshearer/">Cybersecurity Professional</a></h1>
+# Hello, I'm Kennedy Shearer
+<a href="www.linkedin.com/in/kennedyshearer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+[Brief Introduction - Remove this afterwards]
 
-- <b>Cybersecurity Labs</b>
-  - [Azure Cloud Detection](https://github.com/kennedyshearer/URL-HERE) (Microsoft Sentinel, KQL)
-  - [Detection & Monitoring Home Lab](https://github.com/kennedyshearer/URL-HERE) (Splunk, SecurityOnion, Active Directory, pfSense)
-  - [Active Directory](https://github.com/kennedyshearer/URL-HERE)
-  - [Azure Sentinel Map w/ Live Cyber Attacks](https://github.com/kennedyshearer/URL-HERE) (Azure Sentinel, Powershell, Honeypot)
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-- <b>Vulnerability Management</b>
-  - [Nessus Essentials](https://github.com/kennedyshearer/URL-HERE) (Tenable Nessus)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## Objective
+[Provide Objective - Remove this afterwards]]
 
-<h2> 📝 Certifications:</h2>
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-- [CompTIA CySA+](https://www.credly.com/badges/766bfb5f-88e8-4e52-894f-8ac25e89d812/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/df3c261f-d766-4504-b622-15150b495695/public_url)
-- [CompTIA Network+](https://www.credly.com/badges/3ee76336-39a9-40a7-82b1-705a457a5a2d/public_url)
-- [Google Cybersecurity Professional](https://www.credly.com/badges/4e4d90cc-f2d0-4b5d-8ab9-cefe4d32044b/public_url)
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-<h2> 🤳 Connect with me:</h2>
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-[<img align="left" alt="KennedyShearer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-[linkedin]: https://linkedin.com/in/kennedyshearer
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-<!--
-**kennedyshearer/kennedyshearer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
 
-Here are some ideas to get you started:
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
