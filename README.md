@@ -45,7 +45,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## 📝 Certifications
 <div>
-<a href="[www.linkedin.com/in/kennedyshearer](https://www.credly.com/badges/766bfb5f-88e8-4e52-894f-8ac25e89d812/public_url)"><img src="https://img.shields.io/badge/-CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/766bfb5f-88e8-4e52-894f-8ac25e89d812/public_url"><img src="https://img.shields.io/badge/-CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
