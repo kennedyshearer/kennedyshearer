@@ -5,7 +5,7 @@ I am currently a student at Westerns Govern University for 'Masters in Cybersecu
 
 ## 🌱 Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier I/II Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, aiming to become a Security Analyst, Security Engineer, or DevSecOps.
 
 ## 💪 Skills
 
