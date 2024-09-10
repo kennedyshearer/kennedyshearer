@@ -11,10 +11,11 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/kennedyshearer/SOC-Automation-Project">SOC Automation Lab|
-| Incident Response Planning and Execution      | <a href="https://github.com/kennedyshearer/SOC-Automation-Project">SOC Automation Lab|
-| Case Management with TheHive                  | <a href="https://github.com/kennedyshearer/SOC-Automation-Project">SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/kennedyshearer/SOC-Automation-Project">SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/kennedyshearer/SOC-Automation-Project">SOC Automation Lab (In Progress)|
+| Incident Response Planning and Execution      | <a href="https://github.com/kennedyshearer/SOC-Automation-Project">SOC Automation Lab (In Progress)|
+| Group Policy Management                       | Active Directory Project (In Progress)|
+| Case Management with TheHive                  | <a href="https://github.com/kennedyshearer/SOC-Automation-Project">SOC Automation Lab (In Progress)|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/kennedyshearer/SOC-Automation-Project">SOC Automation Lab (In Progress)|
 
 ## 🛠️ Tools
 
