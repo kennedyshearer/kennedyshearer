@@ -1,11 +1,11 @@
 # Hello, I'm Kennedy Shearer
 <a href="https://www.linkedin.com/in/kennedyshearer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity enthusiast that never seems to get comfortable. Whether it be Blue Teaming, Red Teaming, Risk & Compliance, or even coding, I urge to add to my arsonal of knowledge and I love it! Currently I have my <em>'Bachelors of Science in Information Technology'</em> and soon I will begin attending Westerns Govern University for <em>'Masters of Science in Cybersecurity and Information Assurance'</em> with a profound interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity enthusiast that never seems to get comfortable. Whether it be Blue Teaming, Red Teaming, Risk & Compliance, or even coding, I urge to add to my arsonal of knowledge and I love it! Currently I have my <em>'Masters of Science in Cybersecurity and Information Assurance'</em> with a profound interest in technology and a dedication to solving complex problems.
 
 ## 🌱 Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, aiming to become a Security Analyst, Security Engineer, or DevSecOps.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, aiming to become a Security Analyst, Security Engineer, Cloud Engineer or DevSecOps.
 
 ## 💪 Skills
 
