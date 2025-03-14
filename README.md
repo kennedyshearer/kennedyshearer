@@ -50,5 +50,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## 🚧 Projects
-- SOC Automation Project
 - [Active Directory Project](https://github.com/kennedyshearer/Active-Directory-Project)
+- [Static Website Hosting](https://github.com/kennedyshearer/Static-Website-Hosting)
+- [Serverless Sending Application](https://github.com/kennedyshearer/Serverless-Sending-Application)
+- [SOC Automation Project](https://github.com/kennedyshearer/SOC-Automation-Project) (In Progess)
