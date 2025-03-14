@@ -51,4 +51,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## 🚧 Projects
 - SOC Automation Project
-- Active Directory Project
+- [Active Directory Project](https://github.com/kennedyshearer/Active-Directory-Project)
