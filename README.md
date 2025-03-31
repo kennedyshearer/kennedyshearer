@@ -1,7 +1,7 @@
 # Hello, I'm Kennedy Shearer
 <a href="https://www.linkedin.com/in/kennedyshearer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity enthusiast that never seems to get comfortable. Whether it be Blue Teaming, Red Teaming, Risk & Compliance, or even coding, I urge to add to my arsonal of knowledge and I love it! Currently I have my <em>'Masters of Science in Cybersecurity and Information Assurance'</em> with a profound interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity enthusiast that never seems to get comfortable. Whether it be Blue Teaming, Red Teaming, Risk & Compliance, or even coding, I urge to add to my arsonal of knowledge and I love it! Currently I have my **Masters of Science in Cybersecurity and Information Assurance** with a profound interest in technology and a dedication to solving complex problems.
 
 ## 🌱 Objective
 
