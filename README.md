@@ -5,7 +5,7 @@ I am a Cybersecurity enthusiast that never seems to get comfortable. Whether it 
 
 ## 🌱 Objective
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, aiming to become a Security Engineer, Cloud Support Engineer or DevSecOps.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, aiming to become a Security Engineer, Solutions Architect, or Cloud Support Engineer.
 
 ## 💪 Skills
 
