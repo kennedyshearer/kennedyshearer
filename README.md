@@ -11,9 +11,9 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Group Policy Management                       | <a href="https://github.com/kennedyshearer/Active-Directory-Project">Active Directory Project|
-| IAM Policies & S3 Bucket Policies             | <a href="https://github.com/kennedyshearer/Static-Website-Hosting">Static Website Hosting|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/kennedyshearer/SOC-Automation-Project">SOC Automation Lab (In Progress)|
+| Group Policy Management                       | [Active Directory Project](https://github.com/kennedyshearer/Active-Directory-Project) |
+| IAM Policies & S3 Bucket Policies             | [Static Website Hosting](https://github.com/kennedyshearer/Static-Website-Hosting) |
+| Scripting and Automation for Threat Mitigation | [SOC Automation Project](https://github.com/kennedyshearer/SOC-Automation-Project) (In-Progess) |
 
 
 ## 🛠️ Tools
