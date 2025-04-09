@@ -45,7 +45,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <a href="https://www.credly.com/badges/766bfb5f-88e8-4e52-894f-8ac25e89d812/public_url"><img src="https://img.shields.io/badge/-CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/df3c261f-d766-4504-b622-15150b495695/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF8000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/3ee76336-39a9-40a7-82b1-705a457a5a2d/public_url"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/7f55fe09-a8e9-44f8-9b73-17836954497c/public_url"><img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/7f55fe09-a8e9-44f8-9b73-17836954497c/public_url"><img src="https://img.shields.io/badge/-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
 </div>
 
 ## 🚧 Projects
