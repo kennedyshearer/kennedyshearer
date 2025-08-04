@@ -51,6 +51,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## 🚧 Projects
 - [Active Directory Project](https://github.com/kennedyshearer/Active-Directory-Project)
 - [Static Website Hosting](https://github.com/kennedyshearer/Static-Website-Hosting)
+- [Webcam Detection](https://github.com/kennedyshearer?tab=repositories)
 - [Book Analyzer](https://github.com/kennedyshearer/app8-book-analysis)
 - [Weather Forecast App](https://github.com/kennedyshearer/app7-weather-forecast-data-app)
 - [News Email Digest](https://github.com/kennedyshearer/app5-news-api-email)
