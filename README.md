@@ -1,7 +1,7 @@
 # Hello, I'm Kennedy Shearer
 <a href="https://www.linkedin.com/in/kennedyshearer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an Aspiring Cloud Architect/Software Engineer who never seems to get comfortable. Whether it's building projects in AWS or virtual machines, or practicing Python daily, I crave improving and strengthening my knowledge arsenal, and I love it! I currently hold a **Master of Science in Cybersecurity and Information Assurance**, with a profound interest in technology and a dedication to solving complex problems.
+I am an Associate Cloud and IT Engineer who never seems to get comfortable. Whether it's building projects in AWS or virtual machines, or practicing Python daily, I crave improving and strengthening my knowledge arsenal, and I love it! I currently hold a **Master of Science in Cybersecurity and Information Assurance**, with a profound interest in technology and a dedication to solving complex problems.
 
 ## 🌱 Objective
 
