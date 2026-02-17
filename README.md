@@ -55,8 +55,8 @@ I’m working toward a career in cloud-focused engineering, aiming to become a C
 
 ## 🚧 Projects
 - [Active Directory Project](https://github.com/kennedyshearer/Active-Directory-Project)
-- [Static Website Hosting](https://github.com/kennedyshearer/Static-Website-Hosting)
-- [Webcam Detection](https://github.com/kennedyshearer?tab=repositories)
-- [Book Analyzer](https://github.com/kennedyshearer/app8-book-analysis)
-- [Weather Forecast App](https://github.com/kennedyshearer/app7-weather-forecast-data-app)
-- [News Email Digest](https://github.com/kennedyshearer/app5-news-api-email)
+- [Secure Home Network](https://github.com/kennedyshearer/secure-home-network)
+- [Bucket List Tracker](https://github.com/kennedyshearer/bucketlistapp)
+- [Language Translation Bot](https://github.com/kennedyshearer/aws-lex-translation-bot)
+- [Text Narrator](https://github.com/kennedyshearer/aws-polly-text-narrator)
+- [Image Label Generator](https://github.com/kennedyshearer/aws-rekognition-image-labels)
