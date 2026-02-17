@@ -54,7 +54,7 @@ I’m working toward a career in cloud-focused engineering, aiming to become a C
 </div>
 
 ## 🚧 Projects
-- [Active Directory Project](https://github.com/kennedyshearer/Active-Directory-Project)
+- [Active Directory Lab](https://github.com/kennedyshearer/Active-Directory-Project)
 - [Secure Home Network](https://github.com/kennedyshearer/secure-home-network)
 - [Bucket List Tracker](https://github.com/kennedyshearer/bucketlistapp)
 - [Language Translation Bot](https://github.com/kennedyshearer/aws-lex-translation-bot)
