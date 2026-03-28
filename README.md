@@ -54,6 +54,11 @@ I’m working toward a career in cloud-focused engineering, aiming to become a C
 </div>
 
 ## 🚧 Projects
+- [Production-Ready Highly Available 3-Tier WordPress Architecture on AWS](https://github.com/kennedyshearer/wordpress-3-tier-aws)
+- [Multi-Cloud Weather Application with Disaster Recovery](https://github.com/kennedyshearer/multi-cloud-weather-tracker)
+- [Real-Time Stock Market Data Analytics Pipeline](https://github.com/kennedyshearer/stock-market-data-pipeline)
+- [Cybersecurity Threat Detection System (SageMaker ML Pipeline)](https://github.com/kennedyshearer/aws-cybersecurity-threat-detection)
+- [CI/CD Pipeline for Containerized Application](https://github.com/kennedyshearer/ci-cd-2048-game)
 - [Active Directory Lab](https://github.com/kennedyshearer/Active-Directory-Project)
 - [Secure Home Network](https://github.com/kennedyshearer/secure-home-network)
 - [Bucket List Tracker](https://github.com/kennedyshearer/bucketlistapp)
