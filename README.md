@@ -1,54 +1,94 @@
-# Hello, I'm Kennedy Shearer
+# Kennedy Shearer
+
+**DevOps Engineer in Training | Linux Enthusiast | Cloud & Automation Learner**
+
 <a href="https://kennedyshearer.dev"><img src="https://img.shields.io/badge/-Portfolio-FF9900?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kennedyshearer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I am an aspiring DevOps Engineer focused on Linux, containers, cloud infrastructure, and automation.
 
-I’m an Associate Cloud and IT Engineer who’s always focused on growing my skills. I spend my time building hands-on projects in AWS, working with virtual machines, and practicing Python to strengthen my technical foundation. I hold a Master of Science in Cybersecurity and Information Assurance and enjoy tackling complex problems through practical, real-world solutions.
+My journey into DevOps started with wanting to understand what happens behind the applications we use every day. How systems are built, deployed, maintained, and automated.
 
-## 🌱 Objective
+Currently, I am gaining hands-on experience through the **KubeCraft Career Accelerator** and **Cloud Engineer Academy**, where I am building practical skills through labs, projects, and hands-on environments.
 
-I’m working toward a career in cloud-focused engineering, aiming to become a Cloud Engineer, Systems Engineer, or Software Engineer, where I can design secure, scalable systems and continue learning through real-world challenges.
+I enjoy learning by building. Whether it is configuring Linux systems, writing scripts, creating containers, or troubleshooting issues, I learn best by doing.
+<br><br>
 
-## 💪 Skills
+## Things I've Built
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Group Policy Management                       | [Active Directory Project](https://github.com/kennedyshearer/Active-Directory-Project) |
-| IAM Policies & S3 Bucket Policies             | [Static Website Hosting](https://github.com/kennedyshearer/Static-Website-Hosting) |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Project](https://github.com/kennedyshearer/SOC-Automation-Project) (In-Progess) |
+### Multi-Container Application
 
+My first real step into working with containers.
 
-## 🛠️ Tools
+A live dashboard application built with Docker Compose to understand how multiple services work together.
 
-### Network
+The project includes:
+
+- A Bash updater container that fetches data from an API every 30 seconds
+- An Nginx container serving the dashboard
+- Custom Dockerfiles
+- Container networking
+- Multi-container setup using Docker Compose
+
+This project helped me understand how applications are packaged and run across multiple services.
+
+Repository: [Link]
+
+### AWS Cloud Architecture Projects
+
+Cloud-focused projects around building scalable and reliable environments.
+
+Projects include:
+
+- [Highly Available 3-Tier WordPress Architecture](https://github.com/kennedyshearer/aws-cloud-projects/tree/main/wordpress-3-tier-aws)
+- [CI/CD Pipeline for Containerized Applications](https://github.com/kennedyshearer/aws-cloud-projects/tree/main/stock-market-data-pipeline)
+- [Cloud Security Monitoring System](https://github.com/kennedyshearer/aws-cloud-projects/tree/main/cybersecurity-threat-detection)
+- [Multi-Cloud Architecture Project](https://github.com/kennedyshearer/aws-cloud-projects/tree/main/multi-cloud-weather-tracker)
+
+These projects helped me understand how cloud services, networking, and automation connect in real systems.
+
+### Kubernetes Homelab
+
+Coming Soon
+
+A personal lab environment where I will apply Kubernetes and DevOps concepts hands-on.
+
+Planned focus areas:
+
+- Container orchestration
+- Networking
+- Monitoring and observability
+- Infrastructure automation
+- GitOps workflows
+<br><br>
+
+## Python
+
+Continuously improving my Python skills and using it for automation and tooling.
+
+I use Python to connect software development with infrastructure work.
+<br><br>
+
+## Blog Posts
+
+- [Why I’m Spending More Time in the Terminal](https://medium.com/@kennedyshearer/cloud-engineering-starts-lower-than-aws-c569c69b2763)
+- [Live Streaming + Video-on-Demand Platform (Twitch-Inspired)](https://medium.com/@kennedyshearer/live-streaming-video-on-demand-platform-twitch-inspired-4b025afdca08)
+- [Cloud Engineer Academy — Week 2: Breaking Down Cloud Architecture Concepts](https://medium.com/@kennedyshearer/cloud-engineer-academy-week-2-breaking-down-cloud-architecture-concepts-81a3085e1e5f)
+- [Cloud Engineer Academy — Week 1: My Journey to becoming a Cloud Engineer](https://medium.com/@kennedyshearer/cloud-engineer-academy-week-1-my-journey-to-becoming-a-cloud-engineer-7167f2f3fae8)
+<br><br>
+
+## Certifications
+
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## 📝 Certifications
-
-<div>
+<a href="https://www.credly.com/badges/b45cec23-bfe2-474a-b46f-e2b2651ed2c2/public_url"><img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge" /></a>
+<a href="https://www.credly.com/badges/7f55fe09-a8e9-44f8-9b73-17836954497c/public_url"><img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/56e03886-0556-435f-9576-8a804a39a75b/public_url"><img src="https://img.shields.io/badge/-Pentest%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/766bfb5f-88e8-4e52-894f-8ac25e89d812/public_url"><img src="https://img.shields.io/badge/-CySA%2B-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/df3c261f-d766-4504-b622-15150b495695/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF8000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/3ee76336-39a9-40a7-82b1-705a457a5a2d/public_url"><img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/7f55fe09-a8e9-44f8-9b73-17836954497c/public_url"><img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/b45cec23-bfe2-474a-b46f-e2b2651ed2c2/public_url"><img src="https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge" /></a>
-
     
 </div>
+
+
+*"There is always more to learn."*
