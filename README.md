@@ -1,6 +1,6 @@
 # Kennedy Shearer
 
-**DevOps Engineer in Training | Linux Enthusiast | Cloud & Automation Learner**
+**Junior DevOps Engineer | Linux Enthusiast | Cloud & Automation Learner**
 
 <a href="https://kennedyshearer.dev"><img src="https://img.shields.io/badge/-Portfolio-FF9900?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kennedyshearer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
