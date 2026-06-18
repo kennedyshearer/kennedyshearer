@@ -69,12 +69,10 @@ Continuously improving my Python skills and using it for automation and tooling.
 I use Python to connect software development with infrastructure work.
 <br><br>
 
-## Blog Posts
+## Latest Blog Posts
 
-- [Why I’m Spending More Time in the Terminal](https://medium.com/@kennedyshearer/cloud-engineering-starts-lower-than-aws-c569c69b2763)
-- [Live Streaming + Video-on-Demand Platform (Twitch-Inspired)](https://medium.com/@kennedyshearer/live-streaming-video-on-demand-platform-twitch-inspired-4b025afdca08)
-- [Cloud Engineer Academy — Week 2: Breaking Down Cloud Architecture Concepts](https://medium.com/@kennedyshearer/cloud-engineer-academy-week-2-breaking-down-cloud-architecture-concepts-81a3085e1e5f)
-- [Cloud Engineer Academy — Week 1: My Journey to becoming a Cloud Engineer](https://medium.com/@kennedyshearer/cloud-engineer-academy-week-1-my-journey-to-becoming-a-cloud-engineer-7167f2f3fae8)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <br><br>
 
 ## Certifications
