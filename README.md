@@ -72,6 +72,11 @@ I use Python to connect software development with infrastructure work.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My Linux Journey: Building the Foundation for DevOps Engineering](https://medium.com/@kennedyshearer/my-linux-journey-building-the-foundation-for-devops-engineering-77f84a5948ac?source=rss-2bfc5c372578------2)
+- [Why I’m Spending More Time in the Terminal](https://medium.com/@kennedyshearer/cloud-engineering-starts-lower-than-aws-c569c69b2763?source=rss-2bfc5c372578------2)
+- [Live Streaming + Video-on-Demand Platform &lpar;Twitch-Inspired&rpar;](https://medium.com/@kennedyshearer/live-streaming-video-on-demand-platform-twitch-inspired-4b025afdca08?source=rss-2bfc5c372578------2)
+- [Cloud Engineer Academy — Week 2: Breaking Down Cloud Architecture Concepts](https://medium.com/@kennedyshearer/cloud-engineer-academy-week-2-breaking-down-cloud-architecture-concepts-81a3085e1e5f?source=rss-2bfc5c372578------2)
+- [Cloud Engineer Academy — Week 1: My Journey to becoming a Cloud Engineer](https://medium.com/@kennedyshearer/cloud-engineer-academy-week-1-my-journey-to-becoming-a-cloud-engineer-7167f2f3fae8?source=rss-2bfc5c372578------2)
 <!-- BLOG-POST-LIST:END -->
 <br><br>
 
