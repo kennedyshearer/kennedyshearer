@@ -32,7 +32,8 @@ The project includes:
 
 This project helped me understand how applications are packaged and run across multiple services.
 
-Repository: [Link]
+[Joke Dashboard](https://github.com/kennedyshearer/lab/tree/main/containers/joke-dashboard#readme)
+<br><br>
 
 ### AWS Cloud Architecture Projects
 
@@ -46,6 +47,7 @@ Projects include:
 - [Multi-Cloud Architecture Project](https://github.com/kennedyshearer/aws-cloud-projects/tree/main/multi-cloud-weather-tracker)
 
 These projects helped me understand how cloud services, networking, and automation connect in real systems.
+<br><br>
 
 ### Kubernetes Homelab
 
