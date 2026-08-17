@@ -16,6 +16,21 @@ I enjoy learning by building. Whether it is configuring Linux systems, writing s
 
 ## Things I've Built
 
+### Kubernetes Homelab
+
+[Homelab](https://github.com/kennedyshearer/homelab)
+
+A personal lab environment where I will apply Kubernetes and DevOps concepts hands-on.
+
+Planned focus areas:
+
+- Container orchestration
+- Networking
+- Monitoring and observability
+- Infrastructure automation
+- GitOps workflows
+<br><br>
+
 ### Multi-Container Application
 
 My first real step into working with containers.
@@ -49,20 +64,6 @@ Projects include:
 These projects helped me understand how cloud services, networking, and automation connect in real systems.
 <br><br>
 
-### Kubernetes Homelab
-
-Coming Soon
-
-A personal lab environment where I will apply Kubernetes and DevOps concepts hands-on.
-
-Planned focus areas:
-
-- Container orchestration
-- Networking
-- Monitoring and observability
-- Infrastructure automation
-- GitOps workflows
-<br><br>
 
 ## Python
 
