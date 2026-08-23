@@ -5,35 +5,26 @@
 <a href="https://kennedyshearer.dev"><img src="https://img.shields.io/badge/-Portfolio-FF9900?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/kennedyshearer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an aspiring DevOps Engineer focused on Linux, containers, cloud infrastructure, and automation.
+I am an aspiring DevOps Engineer focused on Linux, Kubernetes, Cloud Infrastructure, and Automation.
 
 My journey into DevOps started with wanting to understand what happens behind the applications we use every day. How systems are built, deployed, maintained, and automated.
 
 Currently, I am gaining hands-on experience through the **KubeCraft Career Accelerator** and **Cloud Engineer Academy**, where I am building practical skills through labs, projects, and hands-on environments.
 
-I enjoy learning by building. Whether it is configuring Linux systems, writing scripts, creating containers, or troubleshooting issues, I learn best by doing.
+I enjoy learning by building. Whether it is configuring Linux systems, writing scripts, or troubleshooting broken deployments. I simply learn best by doing!
 <br><br>
 
 ## Things I've Built
 
 ### Kubernetes Homelab
 
-[Homelab](https://github.com/kennedyshearer/homelab)
+<https://github.com/kennedyshearer/homelab>
 
-A personal lab environment where I will apply Kubernetes and DevOps concepts hands-on.
-
-Planned focus areas:
-
-- Container orchestration
-- Networking
-- Monitoring and observability
-- Infrastructure automation
-- GitOps workflows
-<br><br>
+A personal lab environment where I spend the majority of my time applying Kubernetes and DevOps concepts hands-on daily.
 
 ### Multi-Container Application
 
-My first real step into working with containers.
+<https://github.com/kennedyshearer/lab/tree/main/containers/joke-dashboard>
 
 A live dashboard application built with Docker Compose to understand how multiple services work together.
 
@@ -47,30 +38,20 @@ The project includes:
 
 This project helped me understand how applications are packaged and run across multiple services.
 
-[Joke Dashboard](https://github.com/kennedyshearer/lab/tree/main/containers/joke-dashboard#readme)
-<br><br>
-
 ### AWS Cloud Architecture Projects
-
-Cloud-focused projects around building scalable and reliable environments.
-
-Projects include:
 
 - [Highly Available 3-Tier WordPress Architecture](https://github.com/kennedyshearer/aws-cloud-projects/tree/main/wordpress-3-tier-aws)
 - [CI/CD Pipeline for Containerized Applications](https://github.com/kennedyshearer/aws-cloud-projects/tree/main/stock-market-data-pipeline)
 - [Cloud Security Monitoring System](https://github.com/kennedyshearer/aws-cloud-projects/tree/main/cybersecurity-threat-detection)
 - [Multi-Cloud Architecture Project](https://github.com/kennedyshearer/aws-cloud-projects/tree/main/multi-cloud-weather-tracker)
 
-These projects helped me understand how cloud services, networking, and automation connect in real systems.
-<br><br>
-
+Cloud-focused projects around building scalable and reliable environments.
 
 ## Python
 
 Continuously improving my Python skills and using it for automation and tooling.
 
 I use Python to connect software development with infrastructure work.
-<br><br>
 
 ## Latest Blog Posts
 
@@ -81,7 +62,7 @@ I use Python to connect software development with infrastructure work.
 - [Live Streaming + Video-on-Demand Platform &lpar;Twitch-Inspired&rpar;](https://medium.com/@kennedyshearer/live-streaming-video-on-demand-platform-twitch-inspired-4b025afdca08?source=rss-2bfc5c372578------2)
 - [Cloud Engineer Academy — Week 2: Breaking Down Cloud Architecture Concepts](https://medium.com/@kennedyshearer/cloud-engineer-academy-week-2-breaking-down-cloud-architecture-concepts-81a3085e1e5f?source=rss-2bfc5c372578------2)
 <!-- BLOG-POST-LIST:END -->
-<br><br>
+<br>
 
 ## Certifications
 
