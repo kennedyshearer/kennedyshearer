@@ -22,21 +22,18 @@ I enjoy learning by building. Whether it is configuring Linux systems, writing s
 
 A personal lab environment where I spend the majority of my time applying Kubernetes and DevOps concepts hands-on daily.
 
-### Multi-Container Application
+### Azure Infrastructure with Terraform and Kubernetes
 
-<https://github.com/kennedyshearer/lab/tree/main/containers/joke-dashboard>
+<https://github.com/kennedyshearer/orbit-infra>
 
-A live dashboard application built with Docker Compose to understand how multiple services work together.
+Infrastructure as Code for Azure, provisioning an AKS cluster and its supporting resources with Terraform and deploying workloads to it with Kubernetes manifests.
 
-The project includes:
-
-- A Bash updater container that fetches data from an API every 30 seconds
-- An Nginx container serving the dashboard
-- Custom Dockerfiles
-- Container networking
-- Multi-container setup using Docker Compose
-
-This project helped me understand how applications are packaged and run across multiple services.
+- Provisions Azure networking and AKS resources with Terraform
+- Structures configuration into reusable Terraform modules
+- Deploys applications to the cluster using Kubernetes manifests
+- Runs entirely in devcontainers (Devpod), with tool versions pinned via `mise.toml` and scripted setup so the environment is identical on any machine
+- Brings environments up to validate changes and tears them down with `terraform destroy` to control cloud spend
+- Written to stay cloud-agnostic, with AWS support planned
 
 ### AWS Cloud Architecture Projects
 
